@@ -1,0 +1,8 @@
+public class Gitjenkins {
+
+public static void main (String [] args){
+
+System.out.println("Hello GitJenkins");
+System.out.println("Hello New GitJenkins"); 
+}
+}
